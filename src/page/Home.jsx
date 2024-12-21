@@ -7,7 +7,7 @@ function Home() {
   return (
     <div>
       <div><Header/></div>
-      <div><Container/></div>
+{/*       <div><Container/></div> */}
     </div>
   );
 }

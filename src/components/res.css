@@ -1,0 +1,15 @@
+
+/* @media screen and (max-width: 480px) {
+    #con{
+        display: flex;
+        flex-direction: column;
+
+    }
+    #nav{
+        display: flex;
+        flex-direction: column;
+        color: blue;
+        width: 100%;
+        gap: 0;
+    }
+  } */
